@@ -1,0 +1,12 @@
+helloworld\proxy\Proxy.class
+helloworld\service\GeometryExample1.class
+MainApp.class
+helloworld\singleton\TreadedTask.class
+helloworld\singleton\ApplicationSingleton.class
+helloworld\singleton\Singleton.class
+helloworld\service\Shap.class
+helloworld\service\impl\Circle.class
+helloworld\proxy\presentation\Client.class
+helloworld\service\impl\Rectangle.class
+helloworld\proxy\metier\IMetier.class
+helloworld\proxy\metier\MetierImpl.class
