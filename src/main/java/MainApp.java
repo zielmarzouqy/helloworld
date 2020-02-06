@@ -10,7 +10,7 @@ public class MainApp {
 	public static void main(String args[]) 
 	{
 		List<String> list = null;
-		// traitememt dev 1
+		// test 3 dev-1
 //		@SuppressWarnings("resource")
 //		ApplicationContext appcntxt = new ClassPathXmlApplicationContext("applicationContext.xml");
 //		GeometryExample1 geo = appcntxt.getBean("geometryExample1", GeometryExample1.class);
